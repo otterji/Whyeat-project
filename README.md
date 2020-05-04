@@ -1,5 +1,21 @@
 # A105조 - 프로젝트 맛돈
 
+# 미리보기
+
+# ![service](./service.gif)
+
+![service1](./service1.gif)
+
+![service2](./service2.gif)
+
+![service3](./service3.gif)
+
+![service4](./service4.gif)
+
+
+
+
+
 
 ## 0. 목표
 
