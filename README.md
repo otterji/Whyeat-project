@@ -20,7 +20,9 @@
 ## 0. 목표
 
 카드사와 음식점 빅데이터를 활용한 소비 분석 및 음식점 추천 서비스를 만들어보자
-[한눈에보기](https://docs.google.com/presentation/d/1ZDvjz1Mgn2i8PBzeykeofq4xyP5Docdi/edit#slide=id.p1)
+
+
+[기획 한눈에보기](https://docs.google.com/presentation/d/1ZDvjz1Mgn2i8PBzeykeofq4xyP5Docdi/edit#slide=id.p1)
 
 ## 1. 기술스택
 - Main: React, TypeScript, Styled-Components, MySQL, Django, Redux
